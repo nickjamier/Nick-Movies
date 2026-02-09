@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Movie Zone UG</title>
+</head>
+<body>
+  <h1>🎬 Movie Zone</h1>
+
+  <div>
+    <h3>Movie 1</h3>
+    <p>Price: UGX 1,000</p>
+    <a href="pay.html">Watch Movie</a>
+  </div>
+</body>
+</html>
