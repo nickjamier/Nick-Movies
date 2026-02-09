@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Watch Movie</title>
+</head>
+<body>
+  <h2>🎥 Now Playing</h2>
+
+  <video width="100%" controls>
+    <source src="movie.mp4" type="video/mp4">
+  </video>
+</body>
+</html>
