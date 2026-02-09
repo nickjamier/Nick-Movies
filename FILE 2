@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pay with Airtel Money</title>
+</head>
+<body>
+  <h2>Pay UGX 1,000</h2>
+
+  <p>Use Airtel Money</p>
+  <p><b>Number:</b> 0748536581</p>
+
+  <p>Dial *185# → Send Money</p>
+
+  <form action="watch.html">
+    <input type="text" placeholder="Enter Transaction ID" required>
+    <br><br>
+    <button type="submit">Confirm Payment</button>
+  </form>
+</body>
+</html>
